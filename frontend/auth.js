@@ -37,5 +37,5 @@ function redirectTo(path) {
   window.location = path;
 }
 
-// Example usage for multiple roles
+
 
